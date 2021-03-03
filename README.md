@@ -5,6 +5,7 @@ hsCook
 
 ## Section 1 Tutorial
 ### Pure
+understand the problem => find a better data structure
 
 #### Sets
 [https://hackage.haskell.org/package/containers-0.6.4.1/docs/Data-Set.html](https://hackage.haskell.org/package/containers-0.6.4.1/docs/Data-Set.html)
